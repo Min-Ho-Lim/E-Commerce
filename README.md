@@ -11,14 +11,20 @@ This is an E-Commerce website built using Next.js, React.js, Sanity.io, and Stri
 
 ## Technologies Used
 
-- Typescript
-- JavaScript
-- Next.js
-- React.js
-- Sanity.io
-- Stripe
-- HTML
-- CSS
+- [Typescript] (https://www.typescriptlang.org/)
+- [Javascript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Next.js] (https://nextjs.org/)
+- [React.js] (https://reactjs.org/)
+- [Sanity.io] (https://www.sanity.io/)
+- [Stripe] (https://stripe.com/)
+- [HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Screenshots
+
+![Product](./images/Product1.png)
+![Product2](./images/Product2.png)
+![Product3](./images/Product3.png)
 
 ## Installation
 
